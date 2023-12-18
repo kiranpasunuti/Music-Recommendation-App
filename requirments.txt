@@ -1,0 +1,8 @@
+numpy
+pandas
+seaborn
+matplotlib
+LinearRegression
+scikit-Learn
+streamlit
+streamlit-option-menu
