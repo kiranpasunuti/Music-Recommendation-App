@@ -1,4 +1,4 @@
-!pip install -q streamlit pandas numpy scikit-learn google-api-python-client requests
+
 
 import streamlit as st
 import pandas as pd
